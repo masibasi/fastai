@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai"
+  site-url: "https://masibasi.github.io/fastai"
+  description: "webpage for fastai"
+  repo-branch: main
+  repo-url: "https://github.com/masibasi/fastai"
